@@ -1,12 +1,15 @@
 # Udacity-Statistics
 Udacity-Statistics
 
+## Udacity
 
+## 1. Intro to Statistics
 
+## 2. Statistics
 
 -------
 
-## Intro to Statistics
+## 1. Intro to Statistics
 Making Decisions Based on Data
 
 Statistics is about extracting meaning from data. 
@@ -17,7 +20,7 @@ In this class, we will introduce techniques for visualizing relationships in dat
 -------
 
 
-## Statistics
+## 2. Statistics
 bySan Jose State University
 
 The Science of Decisions
